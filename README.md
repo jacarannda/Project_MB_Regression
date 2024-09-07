@@ -1,5 +1,8 @@
 # Project: Machine learning for glacier mass balance modelling
 
+**Student:** <br />
+Jules de la Cruz
+
 **Authors:** <br />
 Jordi Bolibar <br />
 Facundo Sapienza
